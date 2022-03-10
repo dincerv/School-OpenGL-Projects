@@ -1,0 +1,3 @@
+﻿  AlienShootingGame.cpp
+c:\users\dinçer\source\repos\alienshootinggame\alienshootinggame\alienshootinggame.cpp(648): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  AlienShootingGame.vcxproj -> C:\Users\dinçer\source\repos\AlienShootingGame\Debug\AlienShootingGame.exe
